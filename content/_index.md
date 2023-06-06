@@ -5,8 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: A blurb describing what the group does. Catchy and short. A plain picture behind.
-    content:
+  - block: 
       title: |
         Wowchemy
         Research Group
@@ -15,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        A blurb describing what the group does. Catchy and short. A plain picture behind.
   
   - block: collection
     content:
