@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: A blurb describing what the group does. Catchy and short. A plain picture behind.
     content:
       title: |
         Wowchemy
